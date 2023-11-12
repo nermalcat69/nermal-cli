@@ -1,2 +1,0 @@
-# nermal-cli
-Cli Starter
